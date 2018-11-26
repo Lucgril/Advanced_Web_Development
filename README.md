@@ -1,3 +1,3 @@
-# CourseWebServices
+# ShareChef
 
-### For the specification of the RESTful service realized, refer to the awd17_progetto_1.pdf file.
+### This project is a RESTful service realized for the server side of the ShareChef application, as it is specified in the Documentatione Progetto.pdf file.
